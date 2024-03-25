@@ -1,3 +1,6 @@
+# Retreive-GoldenGate-Report-and-Discard-files-for-Non-Secure-Deployment
+Retreive GoldenGate Report and Discard files through API's for non secure deployment 
+
 This utility allows you to download the report and discard files of GoldenGate deployments from the connection to a Service Manager.
 It works with GoldenGate Microservices Deployments in insecure mode.
 
