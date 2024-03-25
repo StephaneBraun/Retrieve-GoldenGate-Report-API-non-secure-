@@ -24,7 +24,7 @@ Launching the utility: 2 possible methods
 1 - With the user parameters, GoldenGate password of the Service Manager and properties file as parameters:
 
 
-            java -jar getOggReport.jar userOgg passwordOgg oggConnect.properties
+            java -jar getOggReport.jar userOgg passwordOgg oggConnect
 
 
 2 - With prompt command for the user, GoldenGate password from the Service Manager and properties file:
